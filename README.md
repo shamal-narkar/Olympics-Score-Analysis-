@@ -1,10 +1,11 @@
-# Olympics-Score-Analysis-
+# Olympics-Score-Analysis
 
 This project is an interactive and insightful Olympic Score Analysis Dashboard developed using Advanced Excel. The dashboard provides a clear and visually engaging representation of Olympic medal data over the years, helping users understand medal trends and country performances.
 
 ## Key Features
 
-Year-wise Score Trends: Line chart depicting score trends from 2015 to 2024.
+## Year-wise Score Trends: 
+Line chart depicting score trends from 2015 to 2024.
 
 Total Medal Count: Dynamic display showing the total number of medals won.
 
