@@ -4,18 +4,17 @@ This project is an interactive and insightful Olympic Score Analysis Dashboard d
 
 ## Key Features
 
-## Year-wise Score Trends: 
-Line chart depicting score trends from 2015 to 2024.
+- **Year-wise Score Trends** : Line chart depicting score trends from 2015 to 2024.
 
-Total Medal Count: Dynamic display showing the total number of medals won.
+- **Total Medal Count: Dynamic** display showing the total number of medals won.
 
-Country-Wise Medal Breakdown: Medal counts categorized by gold, silver, and bronze.
+- **Country-Wise Medal Breakdown**: Medal counts categorized by gold, silver, and bronze.
 
-Interactive Country Selection: Filter data by country to gain specific insights.
+- **Interactive Country Selection**: Filter data by country to gain specific insights.
 
-Pie Charts for Medal Distribution: Intuitive representation of gold, silver, and bronze medals.
+- **Pie Charts for Medal Distribution**: Intuitive representation of gold, silver, and bronze medals.
 
-Top Country Analysis: Bar graph showcasing the total medal counts of top-performing countries.
+- **Top Country Analysis**: Bar graph showcasing the total medal counts of top-performing countries.
 
 ## Project Insights
 
